@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your project, which sets up a barista chatbot using OpenAI's API, with Python. The `README.md` file includes instructions on project setup, environment variable management, and Git best practices.
-
----
-
 # Barista Chatbot
 
 This project implements a simple **Barista Chatbot** using the OpenAI GPT-3.5 Turbo API. The chatbot can respond to user inputs as though it were a barista, making recommendations and answering coffee-related queries. It can also be easily customized to interact with users in various conversational styles.
@@ -126,7 +122,3 @@ def get_response(prompt):
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This `README.md` provides essential instructions to set up and use your barista chatbot project. You can further expand it as the project grows. Let me know if you'd like to modify or add anything specific!
